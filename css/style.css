@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Courier New', Courier, monospace;
+  color: rgb(221, 221, 221);
+  background-color: rgb(66, 78, 90);
+}
+
+a {
+  color: rgb(221, 221, 221);
+}
