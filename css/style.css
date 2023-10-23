@@ -10,4 +10,26 @@ body {
 
 a {
   color: rgb(221, 221, 221);
+  text-decoration: none;
+}
+
+.top-navi {
+    border: solid red;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav__list {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  list-style-type: none;
+  padding: 0;
+  flex-wrap: wrap;
+}
+
+.navi {
+  position: static;
+  border: solid blue;
+  min-width: 50%;
 }
